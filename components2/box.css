@@ -1,0 +1,9 @@
+.box_wrapper{
+    width:744px;
+    height:156px;
+   display:flex;
+   flex-wrap:wrap;
+   gap:24px;
+ 
+
+}
